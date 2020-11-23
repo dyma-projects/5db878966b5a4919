@@ -1,0 +1,8 @@
+ul {
+    color: black;
+    list-style-type: circle;
+}
+
+li {
+    padding-top: 8px;
+}

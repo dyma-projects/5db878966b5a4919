@@ -1,5 +1,13 @@
 .square {
-  border: 1px solid red;
+  background-color: #3f51b5;
   height: 100px;
   width: 100px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square p {
+  color: white;
 }
